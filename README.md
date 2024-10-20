@@ -1,6 +1,6 @@
-# Project Title
+# Last Assignment for CNE330 
 
-One Paragraph of project description goes here.
+This Python function captures that algorithm. Try running this program several times supplying different values for n.
 
 ## Getting Started
 
