@@ -63,4 +63,7 @@ This will execute the script just like the other methods, allowing for interacti
 
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+I want to thank the following:
+I used my instructor's demo video to guide me through the assignment. I also used some YouTube videos, such as (16) How to Edit Github Readme—YouTube.
+I used ChatGPT to understand how to write the running part.
+
