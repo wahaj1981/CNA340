@@ -9,20 +9,24 @@ These instructions will guide you through setting up and running your first Pyth
 ### Prerequisites
 
 This project requires Python 3.13 to run, along with the following packages or libraries:
+
 NumPy: for numerical operations.
-Pandas: for data manipulation and analysis.
+
 TensorFlow: for machine learning.
+
 Additionally, it is recommended to use PyCharm https://pycharm-community-edition.en.softonic.com/ as your Integrated Development Environment (IDE) for Python development.
 
 Follow these steps to download and install Python 3.13, PyCharm, and then install the required packages:
 
 Download Python 3.13 Installer:
 Go to the official Python website: https://www.python.org/downloads/release/python-3130/.
+
 Download the Python 3.13 installer for your operating system (e.g., Windows, macOS, or Linux).
 Run the Python 3.13 Installer:
 
 For Windows: Run the .exe file and ensure you check the box "Add Python to PATH" during installation.
 For macOS/Linux: Follow the instructions on the website to install Python 3.13 for your platform.
+
 Download and Install PyCharm:
 
 Go to the official JetBrains website: https://www.jetbrains.com/pycharm/download/.
@@ -36,11 +40,13 @@ pip install numpy pandas matplotlib requests flask beautifulsoup4 sqlalchemy ten
 
 ## Running
 Once you have installed the required dependencies and set up your environment, you can run the program with the following commands on Windows, macOS, or Linux.
+
 1.	Basic Run (Windows/macOS/Linux): To run the script interactively:
 ```
 python Assignment1.py
 ```
 This will prompt you to enter a value for n during runtime, and the program will be executed based on your input.
+
 2.	Running with a File Input (Windows/macOS/Linux): To run the script with a file as an argument (e.g., test.txt), use the following command:
 ```
 python Assignment1.py test.txt
@@ -49,6 +55,7 @@ The file should contain the input values needed by the program, and the script w
 ________________________________________
 Running on Linux
 For Linux users, ensure that the script has executable permissions. You can make the script executable and run it directly without using python as follows:
+
 1.	Make the Script Executable:
 Run this command to make the Python file executable:
 ```
