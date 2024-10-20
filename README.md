@@ -64,7 +64,10 @@ This will execute the script just like the other methods, allowing for interacti
 
 ## Thanks
 I want to thank the following:
+
 I used my instructor's demo video to guide me through the assignment. 
-I also used some YouTube videos, such as https://www.youtube.com/watch?v=-0GjKG4gRmY
-I used ChatGPT to understand how to write the running part.
+
+I also used some YouTube videos, such as https://www.youtube.com/watch?v=-0GjKG4gRmY. 
+
+I Also used ChatGPT to understand how to write the running part.
 
