@@ -35,33 +35,32 @@ pip install numpy pandas matplotlib requests flask beautifulsoup4 sqlalchemy ten
 ```
 
 ## Running
-Once you have installed the required dependencies and set up your environment, you can run the program with the following commands.
-
-Basic Run: To run the script interactively:
-
-bash
+Once you have installed the required dependencies and set up your environment, you can run the program with the following commands on Windows, macOS, or Linux.
+1.	Basic Run (Windows/macOS/Linux): To run the script interactively:
 ```
 python Assignment1.py
-
 ```
-This will prompt you to enter a value for n during runtime, and the program will execute based on your input.
-
-Running with a File Input: To run the script with a file as an argument (e.g., test.txt), use the following command:
-
-bash
+This will prompt you to enter a value for n during runtime, and the program will be executed based on your input.
+2.	Running with a File Input (Windows/macOS/Linux): To run the script with a file as an argument (e.g., test.txt), use the following command:
 ```
 python Assignment1.py test.txt
-
 ```
 The file should contain the input values needed by the program, and the script will read and process the data from the file.
-
-Running with Command-Line Arguments: You can also pass an input value directly when running the script:
-
-bash
+________________________________________
+Running on Linux
+For Linux users, ensure that the script has executable permissions. You can make the script executable and run it directly without using python as follows:
+1.	Make the Script Executable:
+Run this command to make the Python file executable:
 ```
-python Assignment1.py 42
-
+chmod +x Assignment1.py
 ```
-In this case, 42 will be used as the input value for n in the program.
+2.	Run the Script Directly:
+After making the script executable, you can run it directly by typing:
+```
+./Assignment1.py
+```
+This will execute the script just like the other methods, allowing for interactive input, file input, or command-line arguments.
+
+
 ## Thanks
 Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
