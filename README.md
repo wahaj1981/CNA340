@@ -4,7 +4,7 @@ This Python function captures that algorithm. Try running this program several t
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will guide you through setting up and running your first Python script on your local machine for experimentation as part of your CNE330 class.
 
 ### Prerequisites
 
