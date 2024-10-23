@@ -20,7 +20,9 @@ Download the appropriate version for your operating system (Community Edition is
 
 ## Running
 
-Once you have installed the required dependencies and set up your environment, you can run the program using Python 3.13 or PyCharm by copying and pasting the script into the Python interpreter or PyCharm editor. When you hit run, you must enter the 1st number, and then you will be asked again to enter the 2nd number. In the 3rd step, you will asked to choose the required math operation to have the result.
+Once you have installed the required dependencies and set up your environment, you can run the program using Python 3.13 or PyCharm by copying and pasting the script into the Python interpreter or PyCharm editor.
+
+When you enter run, you must input the 1st and 2nd numbers and choose the required math operation to get the result.
 
 
 ## Thanks
