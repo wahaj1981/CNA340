@@ -8,15 +8,13 @@ These instructions will guide you through setting up and running your first Pyth
 
 ### Prerequisites
 
-This project requires Python 3.13 to run.
-
-Download Python 3.13 Installer: Go to the official Python website: https://www.python.org/downloads/release/python-3130/.
+This project requires Python 3.13 to run. To Download it:
+Go to the official Python website: https://www.python.org/downloads/release/python-3130/.
 
 Also, recommended to use PyCharm as your Integrated Development Environment (IDE) for Python development.
 
 
 Download and Install PyCharm:
-
 Go to the official JetBrains website: https://www.jetbrains.com/pycharm/download/.
 Download the appropriate version for your operating system (Community Edition is free).
 
